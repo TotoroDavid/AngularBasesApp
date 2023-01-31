@@ -14,3 +14,7 @@
 - @outPuts
 - Services
 - dist
+
+## check the project in the next link below
+
+https://angularbasesapp.netlify.app/
